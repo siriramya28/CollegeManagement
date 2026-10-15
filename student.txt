@@ -3,3 +3,5 @@ Student Name: Rahul
 Roll Number: 101
 Department: CSE
 Semester: 5
+Attendance: 85%
+Result: PASS
